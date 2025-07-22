@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "mastra": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@mastra/mcp-docs-server"
+      ]
+    },
+    "wikipedia": {
+      "url": "http://localhost:3000/mcp"
+    }
+  }
+}
